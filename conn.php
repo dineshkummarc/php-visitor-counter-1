@@ -3,10 +3,10 @@
 ### EDIT HERE ###
 
 // DB CONNECT INFO
-$db_host = "INSERT_DB_HOST_HERE";
-$db_name = "INSERT_DB_NAME_HERE";
-$db_user = "INSERT_DB_USERNAME_HERE";
-$db_pw = "INSERT_DB_PASSWORD_HERE";
+$db_host = "localhost";
+$db_name = "phpcounter";
+$db_user = "root";
+$db_pw = "";
 
 // DB TABLE INFO
 $GLOBALS['hits_table_name'] = "INSERT_HITS_TABLE_NAME_HERE";
